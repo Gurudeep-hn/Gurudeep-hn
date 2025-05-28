@@ -38,8 +38,6 @@ I'm passionate about building intelligent systems and currently working on conte
 
 ### 📊 GitHub Stats
 
-![Gurudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudeep-hn&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudeep-hn&layout=compact&theme=radical)
 
 ### 💼 Professional Experience
