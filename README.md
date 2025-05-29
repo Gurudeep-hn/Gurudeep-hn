@@ -5,7 +5,7 @@
 I'm passionate about building intelligent systems and currently working on contextual AI solutions at ZMI GmbH while completing my Master's in AI at Technical University of Applied Science Würzburg-Schweinfurt.
 
 ### 🔭 Currently Working On
-- **Master's Thesis**: Contextual Retrieval Chatbot Development using GPT models and LangChain
+- **Master's Thesis**: Contextual Retrieval Chatbot Development using LLM's and LangChain
 - **AI Integration**: Building secure AI-enabled support tools for administrative processes
 - **Research**: Advanced prompt engineering and RAG (Retrieval-Augmented Generation) systems
 
