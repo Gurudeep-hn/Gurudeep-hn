@@ -40,8 +40,6 @@ I'm passionate about building intelligent systems and currently working on conte
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudeep-hn&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gurudeep-hn)](https://git.io/streak-stats)
-
 ### 💼 Professional Experience
 
 **Current Role**: Working Student in Artificial Intelligence at ZMI GmbH
