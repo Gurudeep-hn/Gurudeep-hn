@@ -36,10 +36,6 @@ I'm passionate about building intelligent systems and currently working on conte
 
 **Key Areas**: ETL Pipelines • Feature Engineering • RAG Systems • Prompt Engineering • Process Automation
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudeep-hn&layout=compact&theme=radical)
-
 ### 💼 Professional Experience
 
 **Current Role**: Working Student in Artificial Intelligence at ZMI GmbH
@@ -62,7 +58,7 @@ I'm passionate about building intelligent systems and currently working on conte
 - **"Agriware: Crop Suggester System by Estimating the Soil Nutrient Indicators"** - CRC Press, 2023
 
 ### 🎓 Education & Certifications
-- **MS Artificial Intelligence** - Technical University Würzburg-Schweinfurt (2023-Present)
+- **MS Artificial Intelligence** - Technical University Würzburg-Schweinfurt (2023-2025)
 - **BE Computer Science** - St. Joseph Engineering College, India (2018-2022)
 - **Certifications**: Machine Learning, Data Science, Data Structures
 
